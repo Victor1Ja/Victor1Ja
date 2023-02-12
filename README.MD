@@ -25,9 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/victor1ja/victor1ja/blob/output/snake.svg" alt="Snake animation" />
-
-###
