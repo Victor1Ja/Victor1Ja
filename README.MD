@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor Javier López Roque and I'm a Software Engineer, from Santiago de Cuba, Cuba.  I love technology, <br><br>I mean all technology, starting from IT and ending with how a coffee maker works. I started coding in high school training to classify in IOI(International Olimic of Informatics). In college, I participate in the ICPC contests classifying on 4 occasions to Caribbean Finals.</p>
+<p align="left">My name is Victor Javier López Roque and I'm a Software Engineer, from Santiago de Cuba, Cuba.  I love technology, <br><br>I mean all technology, starting from IT and ending with how a coffee maker works. I started coding in high school training to classify in IOI(International Olimpic of Informatics). In college, I participate in the ICPC contests classifying on 4 occasions to Caribbean Finals.</p>
 
 ###
 
