@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning 2013<br>🎯 Goals: Work in a world-class company<br>🎲 Fun fact:  I love German Shepards</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning machine learning and deep learning<br>🎯 Goals: Work in a world-class company<br>🎲 Fun fact:  I love German Shepards</p>
 
 ###
 
